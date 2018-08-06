@@ -2,8 +2,8 @@
 private class mytest{
 @isTest
 static void myunittest(){
-
-System.assertEquals(1,1);
+//add -1
+System.assertEquals(-1,1);
 
 }
 
