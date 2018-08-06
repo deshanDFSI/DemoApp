@@ -1,5 +1,5 @@
 @isTest
-private class Mytest{
+private class mytest{
 @isTest
 static void myunittest(){
 
