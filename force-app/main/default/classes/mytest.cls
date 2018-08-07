@@ -4,7 +4,7 @@ private class mytest{
 static void myunittest(){
 //add -1
 System.assertEquals(0,1);
-  System.assert(false);
+ // System.assert(false);
 
 }
 
